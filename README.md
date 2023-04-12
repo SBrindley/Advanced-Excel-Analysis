@@ -24,6 +24,6 @@ Bonus Analysis
 1 – I think the mean better summarises the data in this instance. This is because the spread of data is quite large, and a lot of the data is at either end of the range meaning an average may be more representative of the data as opposed to the median.
 
 2 – There is a lot more variability with the successful campaigns and the number of backers rather than the unsuccessful ones. I would say this is due to there being a lot of successful campaigns in the middle of the data and a chunk of them being towards the tail end and beginning also, unlike the failed ones.
-![image](https://user-images.githubusercontent.com/113051302/231565755-95cc276b-c09e-4232-83a6-d5fbea8f26be.png)
+
 
 
